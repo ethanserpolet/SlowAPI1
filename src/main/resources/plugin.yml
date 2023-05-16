@@ -1,0 +1,5 @@
+name: SlowAPI
+author: SlowFeew, Zuhowks
+version: 1.0
+main: fun.slowfeew.api.SlowAPI
+api-version: 1.0
